@@ -18,6 +18,6 @@ Frontend Mentor | Challenges
 
 ## Feedback
 
-If you have any feedback, please reach out to us at agu.damonte@gmail.com
+If you have any feedback, please reach me out at agu.damonte@gmail.com
 
 
